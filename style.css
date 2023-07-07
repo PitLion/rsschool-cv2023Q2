@@ -1,0 +1,11 @@
+html {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-size: 18px;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
